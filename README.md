@@ -1,12 +1,10 @@
 # Getting Started
 
-1. Download the assets folder from google drive: 
+1. Download the `assets` folder from google drive: https://drive.google.com/drive/folders/10V3MpyrOig9bAOjJqxvrNJOz2URqPJiz?usp=sharing
 
-2. Gzip the downloaded dataset and rename the file to `all_states.csv.gz`
+2. Unzip the `assets` folder move it to the `app` folder
 
-3. Move the gzipped file to `./app/assets/data`
-
-4. To run the app on http://localhost:3000, use the following command:
+3. To run the app on http://localhost:3000, use the following command:
 
     ```sh
     bash ./main.sh
