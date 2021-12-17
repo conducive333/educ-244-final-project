@@ -1,8 +1,13 @@
 .ipynb_checkpoints
 settings.json
 __pycache__
+<<<<<<< HEAD
 app/assets
 zipper.py
+=======
+zipper.py
+assets
+>>>>>>> f5797de1fcd88aacd30708048cd81af5253996e2
 ignore
 .env.*
 venv
