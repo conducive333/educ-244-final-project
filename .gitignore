@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+settings.json
+__pycache__
+app/assets
+zipper.py
+ignore
+.env.*
+venv
